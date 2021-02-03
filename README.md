@@ -52,7 +52,8 @@ an array that holds all of the options for base layers.
 * **_Results_**  
 Once everything is passed through a main function you get the following:
 <img src="/images/final-map.png" height="auto">
-The live version of the map can be found here [Leaflet USGS Earthquake Map](https://npvoravong.github.io/leaflet-challenge/)
+
+
 
 
 
