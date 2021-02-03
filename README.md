@@ -47,7 +47,7 @@ an array that holds all of the options for base layers.
     
     Once the layer is created it can be toggled by adding a mapLayers object to the `L.control`.  
    - Legend  
-   Leaflet has functions available that can manipulate the Dom. This is how we generate the legend. Using a For Loop with some HTML, an array with all the magnitude levels is paired with the assigned color as determined by `getColor()`. Once the position is specified ```L.control({position: 'bottomright'})``` it can be added to the map.
+   Leaflet has functions available that can manipulate the Dom. This is how we generate the legend. Using a For Loop with some HTML, an array with all the magnitude levels is paired with the assigned color as determined by `getColor()`. Once the position is specified ```L.control({position: 'bottomright'})``` it can be added to the map. The legend and info classes are set up in the CSS to style the box around the legend text.
    
 * **_Results_**  
 Once everything is passed through a main function you get the following:
