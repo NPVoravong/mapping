@@ -27,6 +27,7 @@ is loaded before the next step happens. In this is case it is the function being
   ```
   d3.json(usgsData).then(createEqMap);
   ```
+<img src="/images/GeoJson-Data-Example.png" height="auto">
 
 * **_Basemaps_**  
 The basemaps used in this project are provided by calling the [Mapbox Styles API](https://docs.mapbox.com/api/maps/styles/). The basemaps are added to the map element 
@@ -50,6 +51,8 @@ an array that holds all of the options for base layers.
    
 * **_Results_**  
 Once everything is passed through a main function you get the following:
+<img src="/images/final-map.png" height="auto">
+The live version of the map can be found here [Leaflet USGS Earthquake Map](https://npvoravong.github.io/leaflet-challenge/)
 
 
 
