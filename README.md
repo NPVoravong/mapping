@@ -1,9 +1,11 @@
 # Earthquake Epicenter Mapping
 
-## Prompt
+# Prompt
 Using [USGS Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) map the GeoJSON for the past seven days. Use different color and circles sizes to represent the magnitude of the earthquake.
 
-## Process
+# Dependencies
+
+# Process
 * **_HTML Setup_**  
 Before we can do anything with the data all the necessary libraries and files need to be referenced in the `index.html`.  
 The following are all required to have the map function properly:  
