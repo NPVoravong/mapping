@@ -59,7 +59,7 @@ is loaded before the next step happens. In this is case it is the function being
       Leaflet has functions available that can manipulate the Dom. This is how we generate the legend. Using a For Loop with some HTML, an array with all the magnitude levels is paired with the assigned color as determined by `getColor()`. Once the position is specified ```L.control({position: 'bottomright'})``` it can be added to the map. The legend and info classes are set up in the CSS to style the box around the legend text.
    
 # Results
-Once everything is passed through a main function you get the following:
+Once everything is passed through the mapping function you get the following:
 
 <img src="/images/final-map.png" height="auto">
 
