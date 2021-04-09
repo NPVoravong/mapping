@@ -1,4 +1,4 @@
-# Leaflet Challenge
+# Earthquake Epicenter Mapping
 
 ## Prompt
 Using [USGS Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) map the GeoJSON for the past seven days. Use different color and circles sizes to represent the magnitude of the earthquake.
