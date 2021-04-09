@@ -60,6 +60,7 @@ is loaded before the next step happens. In this is case it is the function being
    
 # Results
 Once everything is passed through a main function you get the following:
+
 <img src="/images/final-map.png" height="auto">
 
 The live map can be found here [Leaflet USGS Earthquake Map](https://npvoravong.github.io/leaflet-challenge/)
