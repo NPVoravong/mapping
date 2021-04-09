@@ -63,4 +63,4 @@ Once everything is passed through the mapping function you get the following:
 
 <img src="/images/final-map.png" height="auto">
 
-The live map can be found here [Leaflet USGS Earthquake Map](https://npvoravong.github.io/leaflet-challenge/)
+The live map can be found here [Leaflet USGS Earthquake Map](https://npvoravong.github.io/mapping/)
